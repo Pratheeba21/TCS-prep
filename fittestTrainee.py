@@ -1,3 +1,8 @@
+#Problem Statement: finding the fittest trainee among three trainees.
+
+
+#Program:
+
 t1,t2,t3=list(),list(),list()
 
 for _ in range(3):
